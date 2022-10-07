@@ -12,5 +12,5 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=alvino-prog&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=alvino-prog&layout=compact&theme=nightowl)
-***![github card](https://github-readme-stats.vercel.app/api/pin/?username=LitRHap&repo=self-wa&theme=dark)
+
 
