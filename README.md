@@ -10,7 +10,6 @@
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-![github stats](https://github-readme-stats.vercel.app/api?username=alvino-prog&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=2)
-
+![github stats](https://github-readme-stats.vercel.app/api?username=alvino-prog&show_icons=true&theme=radical)
 
 
